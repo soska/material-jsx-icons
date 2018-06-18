@@ -1,5 +1,11 @@
 {
   "name": "material-jsx-icons",
+  "author": "Armando Sosa <arm.sosa@gmail.com>",
+  "homepage": "https://github.com/soska/material-jsx-icons",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:soska/material-jsx-icons.git"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -10,8 +16,7 @@
       "prettier --single-quote --trailing-comma es5 --write 'scripts/**/*.js'"
   },
   "keywords": [],
-  "author": "Armando Sosa",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",

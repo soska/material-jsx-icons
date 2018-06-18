@@ -1,0 +1,10 @@
+/* directions_railway icon*/
+import React from "react";
+const Icon = (props = {}) => (
+  <svg viewBox="0 0 48 48" {...props}>
+    <path d="M8 31c0 3.87 3.14 7 7 7l-3 3v1h24v-1l-3-3c3.87 0 7-3.13 7-7V10c0-7-7.16-8-16-8S8 3 8 10v21zm16 3c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm12-14H12V10h24v10z" />
+  </svg>
+);
+Icon.displayName = "DirectionsRailwayIcon";
+Icon.isMaterialIcon = true;
+export default Icon;

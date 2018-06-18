@@ -1,17 +1,17 @@
-#Material JSX Icons
+# Material JSX Icons
 
 The [Material Design Icons Library](https://material.io/tools/icons) converted to dependency-free flexible React components using [Svg-To-JSX](https://github.com/janjakubnanista/svg-to-jsx), [Babel](https://babeljs.io/) and [Prettier](https://prettier.io/).
 
-#How to use
+## How to use
 
 Install the package using npm:
 
 ```
-npm install --save material-jsx-icons
+$ npm install --save material-jsx-icons
 
-or
+# or
 
-yarn add material-jsx-icon
+$ yarn add material-jsx-icon
 ```
 
 Then import in your app all the icons you want to use. They are just functional React components, so you just use them as such.
